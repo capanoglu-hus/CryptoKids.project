@@ -4,7 +4,7 @@ Crypto savings for kids.
 
 When families send their savings for their children via crypto, it ensures that children cannot withdraw their savings until a certain age.
 
-The contract creator sends ether to the children's addresses. 
+The contract creator sends Ether to the children's addresses. 
 
 Every child has a certain characteristic. 
 
