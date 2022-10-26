@@ -39,7 +39,7 @@ The amount saved by the family for all children is kept.
 ![addamount](https://user-images.githubusercontent.com/85956625/198036247-df72b6bb-90b1-43b7-a877-f624ee4d94e2.PNG)
 
 
-The family will be asked to withdraw the amount when the deadline set by the family is reached.
+When the deadline set by the family is reached, the child withdraws the amount from their account.
 
 
 ![Inkedbool](https://user-images.githubusercontent.com/85956625/198038097-cc6ecf31-87c6-4512-9a9d-9c5d0fe65627.jpg)
